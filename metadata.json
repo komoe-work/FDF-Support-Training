@@ -1,0 +1,5 @@
+{
+  "name": "Support Training for EDMS-FDF",
+  "description": "An application for training employees on data entry from invoices and bank statements. Users enter data based on an image, and their accuracy and speed are tracked for evaluation.",
+  "requestFramePermissions": []
+}
